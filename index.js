@@ -2,49 +2,49 @@ let songs = [
     {
         title: "Olorun",
         artist: "Asake",
-        file: "/01 Asake - Olorun (NetNaija.com).mp3",
+        file: "01 Asake - Olorun (NetNaija.com).mp3",
         image: "XV5KvEkPN9m.jpg"
     },
     {
         title: "Awodi",
         artist: "Asake",
-        file: "/02 Asake - Awodi (NetNaija.com).mp3",
+        file: "02 Asake - Awodi (NetNaija.com).mp3",
         image: "XV5KvEkPN9m.jpg"
     },
     {
         title: "Sunshine",
         artist: "Asake",
-        file: "/04 Asake - Sunshine (NetNaija.com).mp3",
+        file: "04 Asake - Sunshine (NetNaija.com).mp3",
         image: "XV5KvEkPN9m.jpg"
     },
     {
         title: "Mogbe",
         artist: "Asake",
-        file: "/05 Asake - Mogbe (NetNaija.com).mp3",
+        file: "05 Asake - Mogbe (NetNaija.com).mp3",
         image: "XV5KvEkPN9m.jpg"
     },
     {
         title: "Basquiat",
         artist: "Asake",
-        file: "/06 Asake - Basquiat (NetNaija.com).mp3",
+        file: "06 Asake - Basquiat (NetNaija.com).mp3",
         image: "XV5KvEkPN9m.jpg"
     },
     {
         title: "Remember",
         artist: "Asake",
-        file: "/11 Asake - Remember (NetNaija.com).mp3",
+        file: "11 Asake - Remember (NetNaija.com).mp3",
         image: "XV5KvEkPN9m.jpg"
     },
     {
         title: "Great Guy",
         artist: "Asake",
-        file: "/13 Asake - Great Guy (NetNaija.com).mp3",
+        file: "13 Asake - Great Guy (NetNaija.com).mp3",
         image: "XV5KvEkPN9m.jpg"
     },
     {
         title: "Yoga",
         artist: "Asake",
-        file: "/Asake - Yoga (NetNaija.com).mp3",
+        file: "Asake - Yoga (NetNaija.com).mp3",
         image: "XV5KvEkPN9m.jpg"
     },
     // Add more song objects as needed
