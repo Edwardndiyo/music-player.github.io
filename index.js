@@ -20,32 +20,32 @@ let songs = [
     {
         title: "Mogbe",
         artist: "Asake",
-        file: "05 Asake - Mogbe (NetNaija.com).mp3",
-        image: "XV5KvEkPN9m.jpg"
+        file: "./05 Asake - Mogbe (NetNaija.com).mp3",
+        image: "./XV5KvEkPN9m.jpg"
     },
     {
         title: "Basquiat",
         artist: "Asake",
-        file: "06 Asake - Basquiat (NetNaija.com).mp3",
-        image: "XV5KvEkPN9m.jpg"
+        file: "./06 Asake - Basquiat (NetNaija.com).mp3",
+        image: "./XV5KvEkPN9m.jpg"
     },
     {
         title: "Remember",
         artist: "Asake",
-        file: "11 Asake - Remember (NetNaija.com).mp3",
-        image: "XV5KvEkPN9m.jpg"
+        file: "./11 Asake - Remember (NetNaija.com).mp3",
+        image: "./XV5KvEkPN9m.jpg"
     },
     {
         title: "Great Guy",
         artist: "Asake",
-        file: "13 Asake - Great Guy (NetNaija.com).mp3",
-        image: "XV5KvEkPN9m.jpg"
+        file: "./13 Asake - Great Guy (NetNaija.com).mp3",
+        image: "./XV5KvEkPN9m.jpg"
     },
     {
         title: "Yoga",
         artist: "Asake",
-        file: "Asake - Yoga (NetNaija.com).mp3",
-        image: "XV5KvEkPN9m.jpg"
+        file: "./Asake - Yoga (NetNaija.com).mp3",
+        image: "./XV5KvEkPN9m.jpg"
     },
     // Add more song objects as needed
 ];
