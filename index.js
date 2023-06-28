@@ -2,20 +2,20 @@ let songs = [
     {
         title: "Olorun",
         artist: "Asake",
-        file: "01 Asake - Olorun (NetNaija.com).mp3",
-        image: "XV5KvEkPN9m.jpg"
+        file: "./01 Asake - Olorun (NetNaija.com).mp3",
+        image: "./XV5KvEkPN9m.jpg"
     },
     {
         title: "Awodi",
         artist: "Asake",
-        file: "02 Asake - Awodi (NetNaija.com).mp3",
-        image: "XV5KvEkPN9m.jpg"
+        file: "./02 Asake - Awodi (NetNaija.com).mp3",
+        image: "./XV5KvEkPN9m.jpg"
     },
     {
         title: "Sunshine",
         artist: "Asake",
-        file: "04 Asake - Sunshine (NetNaija.com).mp3",
-        image: "XV5KvEkPN9m.jpg"
+        file: "./04 Asake - Sunshine (NetNaija.com).mp3",
+        image: "./XV5KvEkPN9m.jpg"
     },
     {
         title: "Mogbe",
